@@ -1,0 +1,32 @@
+for opening apps:
+    light open ____
+    special cases for open youtube and whatsapp:
+        light open youtube
+        light open whatsapp
+for searching on web/chrome:
+    light search about ____
+for search on youtube:
+    light search on youtube about ____
+for sending messages on whatsapp:
+    Note: whatsapp should be logged in on chrome
+    light message {name} {message}
+for playing video from youtube:
+    Note: you have to copy that video link and that should be the latest link in clipboard
+    light play from the link
+for playing a song:
+    light play ____
+for pausing system while it is playing video or song:
+    Note: Video or Song must be playing
+    light pause/off
+for increasing the volume of light:
+    light increase volume
+for decreasing the volume of light:
+    light decrease volume
+for stopping the music:
+    Note: Music must be playing
+    light stop music
+for stopping the video:
+    Note: Video must be playing
+    light stop video
+for stopping light:
+    light stop/exit
