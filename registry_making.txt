@@ -1,0 +1,13 @@
+Method of making the registry of light.
+
+METHOD: MANUAL SETUP VIA REGEDIT
+
+1. Press `Win + R`, type "regedit", and press Enter.
+2. Navigate to: HKEY_CURRENT_USER\Software
+3. Right-click the "Software" folder -> New -> Key. Name it "Light_Assistant".
+4. Click on "Light_Assistant", right-click in the right pane -> New -> String Value.
+   Create three values with these exact names and data:
+   
+   - Name: AssistantName   | Value Data: Light
+   - Name: Version         | Value Data: 2.5 Alpha
+   - Name: DefaultVolume   | Value Data: 80
