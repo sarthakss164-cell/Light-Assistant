@@ -1,0 +1,7 @@
+SpeechRecognition
+pygame
+pygetwindow
+edge_tts
+pywhatkit
+yt_dlp
+python-vlc
